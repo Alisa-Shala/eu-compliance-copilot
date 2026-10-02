@@ -1,0 +1,16 @@
+{"id": 1, "lang": "en", "question": "Is a CV screening tool a high-risk AI system?", "gold": ["AI Act:annexIII"]}
+{"id": 2, "lang": "en", "question": "Which AI practices are prohibited under the AI Act?", "gold": ["AI Act:5"]}
+{"id": 3, "lang": "en", "question": "Can customers ask us to delete everything we know about them?", "gold": ["GDPR:17"]}
+{"id": 4, "lang": "en", "question": "How many hours do we have to report a personal data breach to the authority?", "gold": ["GDPR:33"]}
+{"id": 5, "lang": "en", "question": "When do we need to carry out a data protection impact assessment?", "gold": ["GDPR:35"]}
+{"id": 6, "lang": "en", "question": "What fines apply if a company uses a prohibited AI practice?", "gold": ["AI Act:99"]}
+{"id": 7, "lang": "en", "question": "Do users have to be told when they are talking to a chatbot?", "gold": ["AI Act:50"]}
+{"id": 8, "lang": "en", "question": "What counts as valid consent for processing personal data?", "gold": ["GDPR:7", "GDPR:4"]}
+{"id": 9, "lang": "en", "question": "Can we send customer data to a server in the US?", "gold": ["GDPR:44", "GDPR:45", "GDPR:46", "GDPR:49"]}
+{"id": 10, "lang": "en", "question": "What must the technical documentation of a high-risk AI system contain?", "gold": ["AI Act:11"]}
+{"id": 11, "lang": "en", "question": "Do we have to appoint a data protection officer?", "gold": ["GDPR:37"]}
+{"id": 12, "lang": "en", "question": "What duties do providers of general-purpose AI models have?", "gold": ["AI Act:53"]}
+{"id": 13, "lang": "en", "question": "What is the maximum fine for a GDPR violation?", "gold": ["GDPR:83"]}
+{"id": 14, "lang": "en", "question": "What does human oversight of a high-risk AI system mean?", "gold": ["AI Act:14"]}
+{"id": 15, "lang": "en", "question": "Is emotion recognition at work allowed under the AI Act?", "gold": ["AI Act:5"]}
+{"id": 16, "lang": "en", "question": "Can we reject a loan application automatically with an algorithm?", "gold": ["GDPR:22"]}
